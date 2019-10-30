@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="UALR_CPSC_4373_Register_Login_02">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="UALR_CPSC_4373_Register_Login_02"/>
+        <property name="java-output-path" value="/UALR_CPSC_4373_Register_Login_02/build/classes"/>
+    </wb-module>
+</project-modules>

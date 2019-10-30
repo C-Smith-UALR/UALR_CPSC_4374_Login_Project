@@ -1,0 +1,138 @@
+@charset "ISO-8859-1";
+/**body
+{	
+  background-color: #026873;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}**/
+
+body {
+    color: #FFFFF2;
+    background: #BFC7D6;
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
+
+h1
+{	
+
+  font-size: 40px;
+  color: #FFFFF2;
+  
+}
+h2
+{
+	color:#FFFFF2 ;
+	font-size: 30px;
+}
+input
+{	
+  
+  outline: 0;
+  background:#ECF0F1 ;
+  width: 20%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  -webkit-border-radius: 2px;
+  
+}
+
+#in
+{
+	background: #132605;
+	color: #FFFFF2;
+}
+
+p
+{	font-size: 20px;
+	color: #ECF0F1;
+}
+a
+{
+	color: #e6b800;	
+}
+
+
+
+input#first
+{
+	
+	background-image: url("user.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 30px;
+	
+	
+}
+
+input#last
+{
+	background-image: url("user.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 30px;
+		
+}
+input#user
+{
+	
+	background-image: url("user.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 30px;
+	
+	
+}
+
+
+input#password, input#confirmpass
+{
+	
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 30px;
+	
+}
+
+input#contact
+{
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 30px;
+	
+}
+
+.menu
+{
+	overflow: hidden;
+  	background-color: #132605;
+  	position: fixed;
+  	top: 0;
+  	right: 4px;
+  	width: 100%;
+}
+
+.menu a
+{
+	float: right;
+  	display: block;
+  	color: #f2f2f2;
+  	text-align: center;
+  	padding: 10px 16px;
+  	text-decoration: none;
+  	font-size: 17px;
+  	font-family:"Times New Roman", Georgia, Serif;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #026873;
+}
